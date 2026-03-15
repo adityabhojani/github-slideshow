@@ -1,0 +1,67 @@
+export const destinations = [
+  {
+    id: 1,
+    name: "Jaipur",
+    region: "Rajasthan",
+    rating: 4.8,
+    reviews: 1245,
+    imageUrl: "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=2070&auto=format&fit=crop",
+  },
+  {
+    id: 2,
+    name: "Varanasi",
+    region: "Uttar Pradesh",
+    rating: 4.7,
+    reviews: 982,
+    imageUrl: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=2076&auto=format&fit=crop",
+  },
+  {
+    id: 3,
+    name: "Munnar",
+    region: "Kerala",
+    rating: 4.9,
+    reviews: 1560,
+    imageUrl: "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=2069&auto=format&fit=crop",
+  },
+  {
+    id: 4,
+    name: "Goa",
+    region: "West India",
+    rating: 4.6,
+    reviews: 3200,
+    imageUrl: "https://images.unsplash.com/photo-1512343879784-a960bf40e4f2?q=80&w=1974&auto=format&fit=crop",
+  },
+];
+
+export const experiences = [
+  {
+    id: 1,
+    title: "Taj Mahal Sunrise Tour",
+    location: "Agra, Uttar Pradesh",
+    category: "Guided Tour",
+    price: 3500,
+    rating: 4.9,
+    reviews: 4520,
+    imageUrl: "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=2076&auto=format&fit=crop",
+  },
+  {
+    id: 2,
+    title: "Backwaters Houseboat Cruise",
+    location: "Alleppey, Kerala",
+    category: "Cruise",
+    price: 8500,
+    rating: 4.8,
+    reviews: 2150,
+    imageUrl: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=2072&auto=format&fit=crop",
+  },
+  {
+    id: 3,
+    title: "Amber Fort Elephant Ride & Tour",
+    location: "Jaipur, Rajasthan",
+    category: "Heritage",
+    price: 2500,
+    rating: 4.5,
+    reviews: 1890,
+    imageUrl: "https://images.unsplash.com/photo-1616422285623-14ff4c0bfa51?q=80&w=2070&auto=format&fit=crop",
+  },
+];
