@@ -1,0 +1,14 @@
+{
+  "name": "isvisarequired",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "mobile"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build": "npm run build --workspaces"
+  }
+}
